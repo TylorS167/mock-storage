@@ -2,8 +2,8 @@
 
 > In memory representation of Storage Interface
 
-100% compliant LocalStorage implement implementing TypeScript's `Storage` interface.
-This library makes use of ES2015 `Proxy` and `Map`, polyfilled may be required.
+100% compliant to TypeScript's `Storage` interface.
+This library makes use of ES2015 `Proxy` and `Map`, polyfills may be required.
 
 ## Get it
 ```sh
