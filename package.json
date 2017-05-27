@@ -2,7 +2,7 @@
   "name": "mock-storage",
   "description": "In-memory Storage API",
   "repository": "https://github.com/TylorS/mock-storage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
