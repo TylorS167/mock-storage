@@ -50,7 +50,7 @@ function get(target: MockStorage, property: string) {
   if ((target as any)[property])
     return (target as any)[property]
 
-  const int = parseInt(property, 10)
+  const int = parseInt(property.toString(), 10)
 
   if (!Number.isNaN(int))
     return target.key(int)
