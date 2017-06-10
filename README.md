@@ -1,5 +1,7 @@
 # Storage Mock
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TylorS167/mock-storage.svg)](https://greenkeeper.io/)
+
 > In memory representation of Storage Interface
 
 100% compliant to TypeScript's `Storage` interface.
